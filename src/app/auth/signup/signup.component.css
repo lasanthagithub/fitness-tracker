@@ -1,0 +1,25 @@
+/* #container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    height: 1000px;
+}
+
+.child {
+    width: 200px;
+    height: 200px;
+}
+
+#child1 {
+    background-color: lightblue;
+}
+
+#child2 {
+    background-color: green;
+}
+
+#child3 {
+    background-color: lightsalmon;
+} */
