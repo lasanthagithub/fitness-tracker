@@ -6,6 +6,8 @@ import { MatButtonModule, MatCheckboxModule, MatIconModule, MatFormFieldModule, 
         MatButtonModule,
         MatCheckboxModule,
         MatIconModule,
+        MatFormFieldModule,
+        MatInputModule,
         MatDatepickerModule,
         MatNativeDateModule
 
